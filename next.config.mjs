@@ -1,4 +1,4 @@
+// frontend/next.config.mjs
 export default {
-    reactStrictMode: true,
-    pageExtensions: ['ts', 'tsx', 'js', 'jsx'],
-  };
+  reactStrictMode: true
+};
